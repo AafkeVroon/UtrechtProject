@@ -123,7 +123,7 @@ MonoBehaviour:
     m_Value: 1
   horizonTint:
     m_OverrideState: 1
-    m_Value: {r: 1, g: 0.8058283, b: 0.61698115, a: 1}
+    m_Value: {r: 1, g: 1, b: 1, a: 1}
   zenithTint:
     m_OverrideState: 1
     m_Value: {r: 1, g: 0.78679246, b: 0.78679246, a: 1}
@@ -262,7 +262,7 @@ MonoBehaviour:
     m_Value: 1
   albedo:
     m_OverrideState: 1
-    m_Value: {r: 0.5754717, g: 0.3025576, b: 0.018458487, a: 1}
+    m_Value: {r: 0.6886792, g: 0.36007872, b: 0.022089666, a: 1}
   globalLightProbeDimmer:
     m_OverrideState: 0
     m_Value: 1
